@@ -28,4 +28,33 @@ Design a boquet preview app
 for a florist in Brooklyn
 
 ---
+### Introduction to UX research
+
+##### UX Research 
+UX research focuses on understanding user behaviors, needs, and motivations through observation and feedback.
+
+##### Product Development Life Cycle
+product development life cycle is the process used to take a product from an idea to reality.
+
+User research is a continuous part of the product development life cycle and takes place before, during, and after phase 3: Design.
+
+Research that takes place before anything is designed is usually called **foundational research**. Some UX teams might also call it strategic or generative research. All three terms mean the same thing, but in this course, we'll stick with foundational research.
+
+**Post-launch research** can be used to evaluate how well a launch feature is meeting the needs of users.
+##### Foundational Research 
+###### Answers the questions:
+- What should we build? 
+- What are the user problems? 
+- How can we solve them? 
+
+UX Researcher Qualities 
+
+- Empathy: Able to understand someone else's feelings or thought in a situation
+- Pragmatism: Focused on reaching goals
+- Collaboration: Can work with a range of people, personalities, and work styles. 
+
+---
+
+
+
 
