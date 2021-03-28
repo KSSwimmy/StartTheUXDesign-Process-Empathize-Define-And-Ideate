@@ -112,3 +112,38 @@ You should use research methods that give insight into what the user thinks of y
 ##### The key to a user-focused product: Research
 
 Research is crucial to creating a product that satisfies users. As an entry-level designer, it might be tempting to assume what the user needs based on your own experience, but as you know: The user comes first. Always make sure that your opinions are backed up by your research. You should get feedback from your users before, during, and after you design!
+
+---
+
+### Choose the right research method
+
+Methods 
+The term methods refers to how you get the research done.
+
+Primary research
+Primary research is research you conduct yourself.
+
+Secondary research
+Secondary research is research that uses information someone else has put together.
+
+Quantitative research
+Quantitative research focuses on data that can be gathered by counting or measuring.
+
+qualitative research
+qualitative research focuses on observations.
+
+Here's a quick way to remember the difference. Quantitative research gives you the "what" and qualitative research gives you the "why."
+
+Interviews
+Interviews are research method used to collect in-depth information on people's opinions, thoughts, experiences, and feelings.
+
+Surveys
+Surveys are an activity where many people are asked the same questions in order to understand what most people think about a product.
+
+Usability studies
+Usability studies are a technique that help us evaluate a product by testing it on users.
+
+Key performance indicators (KPI)
+Key performance indicators are critical measures of progress toward an end goal.
+
+--- 
