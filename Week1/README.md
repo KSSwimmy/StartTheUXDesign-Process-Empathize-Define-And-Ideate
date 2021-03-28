@@ -260,3 +260,59 @@ As you move forward in your UX design career, you’ll likely get to experience 
 If you want to explore research further, check out this user-experience research methods article from NN Group. It will guide you through choosing the best research method for you out of 20 popular options. 
 
 --- 
+### Identify types of bias in UX research
+
+six kinds of biases: 
+- confirmation bias
+- false consensus bias
+- primacy bias
+- recency bias
+- implicit bias 
+- the sunk cost fallacy
+
+##### Bias
+a bias is favoring or having prejudice against something based on limited information.
+
+##### Confirmation bias 
+This bias occurs when you start looking for evidence to prove a hypothesis you have.
+
+One of the most effective methods for **overcoming confirmation bias** during research is to ask open-ended questions when conducting interviews. 
+
+An open-ended question lets the person being interviewed answer freely, instead of with a yes or no. You also want to get into the habit of actively listening without adding your own opinions.
+
+Another way to avoid confirmation bias is to include a large sample of users.
+
+##### False consensus bias
+In UX research, the false consensus bias happens when we overestimate the number of people who will agree with our idea or design, which creates a false consensus.
+
+**Avoid false consensus bias** by identifying and articulating your assumptions.
+
+
+That's when it's easiest to remember the last thing you heard in an interview, conversation, or similar setting, because it's the most recent.
+
+##### Recency bias 
+
+That's when it's easiest to remember the last thing you heard in an interview, conversation, or similar setting, because it's the most recent. When talking to someone, you're more likely to remember things they shared at the end of the conversation.
+
+##### Primacy bias
+
+where you remember the first participant most strongly. Sometimes the first person you meet makes the strongest impression, because you're in a new situation or having a new experience. The primacy bias, like the recency bias, is another reason to take detailed notes or recordings, so you can review everything that happened, not just the memorable first impressions. 
+
+##### *Overcoming recency & primacy bias* 
+Recency and primacy biases also demonstrate why you should interview each participant in the same way.
+
+
+##### Implicit bias
+Implicit bias is a collection of attitudes and stereotypes we associate to people without our conscious knowledge.
+
+***Overcoming Implicit bias***
+To overcome our biases, we can reflect on our behaviors, and we can ask others to point our implicit biases.
+
+
+##### The sunk cost fallacy
+This is the idea that the deeper we get into a project we've invested in, the harder it is to change course without feeling like we've failed or wasted time.
+
+To avoid the sunk cost fallacy, break down your project into smaller phases, and then outline designated points where you can decide whether to continue or stop. This allows you to go back based on new insights before the project gets too far along. 
+
+
+
