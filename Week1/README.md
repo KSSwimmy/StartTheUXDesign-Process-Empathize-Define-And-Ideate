@@ -443,4 +443,4 @@ Research is an essential part of the UX design process and empathizing with user
 
 ---
 
-Working on interview project
+Working on interview project, day 2
