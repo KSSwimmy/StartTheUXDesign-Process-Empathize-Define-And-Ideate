@@ -440,3 +440,7 @@ Here’s an example of an email that could be sent to potential research partici
 >[Your Name]
 
 Research is an essential part of the UX design process and empathizing with users. Taking time to outline the goals for your research and recruit a representative sample of participants will help ensure the feedback you obtain is valuable. Good luck recruiting!
+
+---
+
+Working on interview project
