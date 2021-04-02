@@ -544,3 +544,18 @@ The other kind of empathy map, an aggregated empathy map, represents a group of 
 
 You’re beginning to understand what it means to empathize with your users. Each time you interact with a potential user, you get a little closer to understanding their perspectives and pain points. Good luck!
 
+---
+### Identify user pain points
+
+Pain points are any UX issues that frustrate the user and block the user from getting what they need.
+
+Types of Pain Points 
+
+- Financial 
+- Product 
+- Process 
+- Support 
+
+These are frustrations that stop the user going from point A to point B.
+
+---
