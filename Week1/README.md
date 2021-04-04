@@ -560,7 +560,7 @@ These are frustrations that stop the user going from point A to point B.
 
 ---
 
-Learn more about personas
+### Reading: Learn more about personas
 
 At this point in the course, you’ve learned about feeling empathy for users and building empathy maps to identify users’ pain points. You are on your way to learning all about the users that you'll design a product for! 
 
@@ -578,21 +578,26 @@ Generally, creating 3 to 8 personas is enough to represent the majority of a pro
 
 For the dog walker app, think about a scenario from the perspective of a dog owner:
 
-Daniela is a 48-year-old freelance film producer who lives with their partner Priya and their two children in Atlanta, Georgia. The family recently adopted a golden retriever puppy named Cisco. 
+- Daniela is a 48-year-old freelance film producer who lives with their partner Priya and their two children in Atlanta, Georgia. The family recently adopted a golden retriever puppy named Cisco. 
 
-The family takes regular trips with the kids for gymnastics competitions, and Daniela often travels for long periods of time when filming. Daniela wants to find someone to take care of the puppy, Cisco, while the family is away or busy. 
-Daniela’s biggest concern is trusting a stranger to come into their home and to take care of their puppy. Daniela would be most comfortable hiring someone who knows how to properly care for puppies and can take Cisco on walks and to dog parks. 
+- The family takes regular trips with the kids for gymnastics competitions, and Daniela often travels for long periods of time when filming. Daniela wants to find someone to take care of the puppy, Cisco, while the family is away or busy. 
+
+- Daniela’s biggest concern is trusting a stranger to come into their home and to take care of their puppy. Daniela would be most comfortable hiring someone who knows how to properly care for puppies and can take Cisco on walks and to dog parks. 
 
 Here's what a persona might include for Daniela, using the persona template that was shown in the video:
 
- ![](/Week1/w1images/persona.png)
+![](/Week1/w1images/persona.png)
 
- You can use the information in personas to create designs that speak directly to users, like Daniela. This ensures users have the best experience when using your product! For example, in your designs, you might want to indicate that the dog walkers are screened by the app and must pass background checks, which would reassure users like Daniela that their dog will be safe.
+You can use the information in personas to create designs that speak directly to users, like Daniela. This ensures users have the best experience when using your product! For example, in your designs, you might want to indicate that the dog walkers are screened by the app and must pass background checks, which would reassure users like Daniela that their dog will be safe.
 
 Here’s a pro tip: Get your team's opinion on the product’s users before you build personas. Then, after you build personas, review those suggestions from your team and compare them to the personas you created. Point out how the data validated or contradicted their suggestions. Everyone on your team needs to understand the personas in order to truly connect with your users. 
 
 There are many ways you can create personas. To get started, you can use the persona template from videos in this course. You can also explore a variety of persona templates like these persona templates and examples on Medium and these persona templates and examples on Xtensio. You might notice that some personas are very long and detailed! Or, you might notice different topics in the persona examples that we haven't covered in this course. Feel free to explore and use a persona template that works best for you and your design project.
 
 If you want to learn even more, check out this introduction to personas from Interaction Design Foundation.
+
+---
+
+Persona Project Day 1
 
 
