@@ -598,6 +598,6 @@ If you want to learn even more, check out this introduction to personas from Int
 
 ---
 
-Persona Project Day 1
+Persona Project Day 2
 
 
