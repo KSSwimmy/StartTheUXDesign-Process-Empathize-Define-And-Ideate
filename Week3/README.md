@@ -66,10 +66,38 @@ An edge case is what happens when things go wrong that are beyond the user's con
 ##### Spotting & resolving edge cases 
 
 - Create personas and user stories
-- Thoroghly review the project before launch 
+- Thoroughly review the project before launch 
 - Use wireframes 
 
 ---
+
+### Create a user journey map 
+
+
+##### Benefits of user journey mapping 
+- Helps UX designers create obstacle-free paths for users 
+- Reduces impact of designer bias 
+- Highlights new pain points 
+- Identify improvement opportunities 
+
+
+##### Step 1 
+Add each action in the journey until the user reaches their goal 
+##### Step 2
+Add descriptions for each action. What tasks does the user have to do? 
+##### Step 3
+Add how the user feels at each point. Guesstimates are okay. 
+##### Step 4 
+Add opportunities for improvement. This is where new ideas may come from! 
+
+--- 
+
+
+
+
+
+
+
 
 
 
