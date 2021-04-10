@@ -99,6 +99,13 @@ The designs you create matter! Empathize with your user as much as you can to ma
 
 --- 
 
+### Optional - Learn more about defining user problems
+
+You’ve already learned why it’s important to make sure you’ve defined the right user problem before designing solutions. So, are you ready to boost your reading list? These resources will help you develop a deeper understanding of the define stage of the design process.
+
+[Design Problem Statements: What They Are and How to Frame Them](https://www.toptal.com/designers/product-design/design-problem-statement) from Toptal
+[User Need Statements: The 'Define' Stage in Design Thinking](https://www.nngroup.com/articles/user-need-statements/) from Nielsen Norman Group
+[Are you solving the right problem?](https://hbr.org/2012/09/are-you-solving-the-right-problem) from Harvard Business Review
 
 
 
