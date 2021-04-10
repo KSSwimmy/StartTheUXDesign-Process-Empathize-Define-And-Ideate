@@ -71,12 +71,12 @@ To design a solution that fits the needs of your users, you have to understand t
 
 Okay, back to the dog walker app! You know a bit about Arnold already, but use the skills you’ve learned so far to confirm you know enough to solve his pain points. 
 
-- Who: A busy executive
-- What: Arnold wants to hire a daily dog walker for his three dogs.
-- Where: Arnold is likely using the app at work, on the go. 
-- When: Arnold gets frustrated when he opens the app, starting from the very beginning of the user journey. 
-- Why: Arnold doesn’t have a lot of experience with phone apps or similar technology. 
-- How: Arnold wants to go easily from the home screen of the app to the list of dog walkers to the confirmation screen. 
+- **Who:** A busy executive
+- **What:** Arnold wants to hire a daily dog walker for his three dogs.
+- **Where:** Arnold is likely using the app at work, on the go. 
+- **When:** Arnold gets frustrated when he opens the app, starting from the very beginning of the user journey. 
+- **Why:** Arnold doesn’t have a lot of experience with phone apps or similar technology. 
+- **How:** Arnold wants to go easily from the home screen of the app to the list of dog walkers to the confirmation screen. 
 
 Ta-da! You were able to successfully answer all six questions. Now that you’ve thought through your user’s needs, you’re ready to define the final problem statement. 
 
@@ -106,6 +106,13 @@ You’ve already learned why it’s important to make sure you’ve defined the 
 [Design Problem Statements: What They Are and How to Frame Them](https://www.toptal.com/designers/product-design/design-problem-statement) from Toptal
 [User Need Statements: The 'Define' Stage in Design Thinking](https://www.nngroup.com/articles/user-need-statements/) from Nielsen Norman Group
 [Are you solving the right problem?](https://hbr.org/2012/09/are-you-solving-the-right-problem) from Harvard Business Review
+
+---
+
+![](/Week4/week4images/psDIY.png)
+
+---
+
 
 
 
