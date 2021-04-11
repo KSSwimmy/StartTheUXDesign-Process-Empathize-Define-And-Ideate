@@ -122,7 +122,14 @@ Want to explore competitive audits in more detail? Here are a few articles to he
 
 ---
 
+### Limits to competitive audits
 
+- Stifle creativity 
+- Depend on how well you interpret the findings 
+- Not all designs work in all use cases 
+- Need to be done regularly 
+
+---
 
 
 
