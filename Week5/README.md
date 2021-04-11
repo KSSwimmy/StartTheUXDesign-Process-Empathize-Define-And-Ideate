@@ -58,15 +58,44 @@ If you're excited to learn more, check out [IDEO’s Design Thinking website](ht
 
 ---
 
-# Explore lots of ideas
+### Explore lots of ideas
 
-Why should we come up with a lot of ideas? 
+##### Why should we come up with a lot of ideas? 
 
 - List of ideas is narrowed based on constraints 
 - Need to focus on equity 
 - Let users test the ideas 
 
 ---
+### Scope the competition 
+##### Competitive audit
+A competitive audit is an overview of your competitors' strengths and weaknesses.
+
+##### What you can learn from a competitive audit.
+- Identifying your key competitors 
+- Reviewing the products that your competitors offer
+- Understanding how your competitors position themselves in the market 
+- Examining what your competition does well and what they could do better 
+- Considering how your competitors talk about themselves 
+
+##### Benefits to competitive audits 
+
+- Inform your design process
+- Solve usability problem 
+- Reveal gaps in the market 
+- Provide reliable evidence 
+- Save time, money, and energy 
+
+**Direct competitors** have offerings, meaning products, services, or features, that are similar to your product and focus on the same audience.
+
+Indirect competitors are a little more nuanced. They either have a similar set of offerings, but focus on a different audience than you, or they have a different set of offerings and focus on the same audience as you.
+
+---
+
+
+
+
+
 
 
 
