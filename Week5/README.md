@@ -56,7 +56,17 @@ Following the design process outlined in this certificate program will lay the f
 
 If you're excited to learn more, check out [IDEO’s Design Thinking website](https://designthinking.ideo.com/) for a deeper understanding of how to think like a designer. 
 
+---
 
+# Explore lots of ideas
+
+Why should we come up with a lot of ideas? 
+
+- List of ideas is narrowed based on constraints 
+- Need to focus on equity 
+- Let users test the ideas 
+
+---
 
 
 
