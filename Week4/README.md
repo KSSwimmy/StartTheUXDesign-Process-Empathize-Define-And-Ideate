@@ -228,9 +228,61 @@ One of the most important things to know about value propositions is that they n
 
 If you want to learn even more, check out [this article](https://blog.hubspot.com/marketing/write-value-proposition) from HubSpot about how to write value propositions. 
 
+---
+
+### Self-Reflection: Create a value proposition for portfolio project
 
 
+Question 1
+What is your specific value proposition for your portfolio project? Write and share it here.
 
+Be sure to:
+
+1. Describe your product's features and benefits.
+
+2. Explain the value of the product.
+
+3. Connect these features and benefits with the needs of your users.  
+
+- AR try it on feature 
+- In app product posting scheduler
+- Design it yourself feature 
+- Push Notifications
+- One-touch information accessibility
+- One touch payment integration
+- Point system for customers
+
+---
+### Understand human factors 
+
+##### The human factor
+The human factor describes the range of variables humans bring to their product interactions.
+
+##### Common human factors that influence design 
+
+- Impatience 
+- Limited memory 
+- Needing analogies 
+- Limited concentration
+- Changes in need 
+- Needing motivation 
+- Prejudices 
+- Fears 
+- Making errors 
+- Misjudgment 
+
+Here are psychological concepts that can help you design with the human factor in mind.
+
+##### Mental Model
+Mental models are internal maps that allow humans to predict how something will work.
+
+When you face a door, your mental model tells you that the door can be opened. Once the door is opened, you'll be able to leave the room. The process of opening the door is expected to end with you being able to leave the room. A mental model breaks when you can't go through the open door because, for example, there's a solid brick wall behind it.
+
+
+##### Feedback loops
+Feedback loops refer to the outcome a user gets at the end of a process.
+
+For example, if you enter a dark room and flip a light switch, the room will either brighten, or it won't. Positive feedback would be the light coming on. While negative feedback would be nothing happening. The more positive feedback a user gets when completing the action, the more they will expect the outcome to be positive.
 
 
 
