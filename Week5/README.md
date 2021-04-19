@@ -328,7 +328,7 @@ If you want to learn more about how a company called Switch uses the Crazy Eight
 
 ---
 
-Working on project 2
+Working on project 3
 
 
 
